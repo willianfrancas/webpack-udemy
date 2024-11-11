@@ -1,0 +1,15 @@
+$bgColor: purple;
+$color: #fff;
+$upper: "uppercase";
+$border: 1px solid lime;
+$borderR: 5px;
+
+body {
+  .btn {
+    background-color: $bgColor !important;
+    color: $color;
+    text-transform: $upper;
+    $border: $border;
+    border-radius: $borderR;
+  }
+}

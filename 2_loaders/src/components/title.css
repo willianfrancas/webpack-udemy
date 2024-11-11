@@ -1,0 +1,7 @@
+.main-title {
+  background: red;
+  color: black;
+  text-align: center;
+  border-bottom: 2px solid lime;
+  padding: 1.4rem;
+}

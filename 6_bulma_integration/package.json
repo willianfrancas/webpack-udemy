@@ -1,0 +1,24 @@
+{
+  "name": "6_bulma_integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "bulma": "^1.0.2",
+    "css-loader": "^7.1.2",
+    "mini-css-extract-plugin": "^2.9.2",
+    "node-sass": "^9.0.0",
+    "sass-loader": "^16.0.3",
+    "scss-loader": "^0.0.1",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+  }
+}

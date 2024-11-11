@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=function(o){console.log(`Olá ${o}`)};console.log("Alterando configuração webpack - bundle!"),o("Amora!"),o("Alice!"),o("Aline!"),o("William!")})();

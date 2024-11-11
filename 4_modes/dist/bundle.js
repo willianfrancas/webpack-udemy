@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=(o,s)=>o+s,s=o(2,3),l=o(11,34);console.log(`result for x = ${s}`),console.log(`result for y = ${l}`)})();
